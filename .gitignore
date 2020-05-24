@@ -4,7 +4,7 @@
 /app/css/
 /app/fonts/
 /**/_backstage
-/**/.htaccess
+/**/*.htaccess
 /**/package-lock.json
 /**/Thumbs.db
 /**/*.DS_Store
